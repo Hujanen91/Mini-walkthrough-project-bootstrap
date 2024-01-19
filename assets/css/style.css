@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 /*--------------------------------------------Colors*/
@@ -69,7 +70,7 @@ body {
     color: #555555;
 }
 
-
+div#map {min-height: 360px;}
 /*--------------------------------------------Special Paddings/Margins/Text*/
 
 h1,
@@ -185,9 +186,6 @@ header {
     letter-spacing: 2px;
 }
 
-/*--------------------------------------------Map*/
-
-div#map {min-height: 360px;}
 
 /*--------------------------------------------Hover.css*/
 
